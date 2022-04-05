@@ -1,0 +1,56 @@
+.navigation{
+    background-color:  #85F4FF;
+    font-size: 30px;
+    margin: 5px 5px 5px 5px;
+    text-align: center;
+}
+.navigation a{
+    padding: 14px 25px;
+    text-decoration: none;
+    display: inline-block;
+}
+
+.current{
+    font-size: 35px;
+    font-weight: bold;
+}
+
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 25px;
+    background-color: #95D1CC;
+    color: #006778;
+    
+}
+
+h2{
+    text-align: center;
+    font-size: 35px;
+}
+
+#summary{
+    font-style: bold;
+    margin: 60px 701px;
+    box-shadow: none;
+    text-align: left;
+    font-size: 45px;
+    color: #006778;
+}
+
+p{
+    text-align: center;
+}
+#about-me-description{
+    text-align: left;
+    color: #006778;
+}
+h4{
+    padding: 0;
+    margin-bottom: 0px;
+    margin-top: 0px;
+    text-align: center;
+}
+.card{
+    margin-top: 15px;
+}
+
