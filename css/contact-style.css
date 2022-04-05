@@ -38,3 +38,9 @@ button{
     margin-left: 35%;
     width: 420px;
 }
+#popup{
+    display: none;
+    position: relative;
+    margin: 400px 400px;
+    z-index: 99 !important; 
+}
